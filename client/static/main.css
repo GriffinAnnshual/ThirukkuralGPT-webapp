@@ -280,3 +280,9 @@ margin-left: 15px;
 .w-90{
   width: 90% !important;
 }
+
+.android{
+  position: absolute;
+  left: 85%;
+  bottom: 85%;
+}
